@@ -17,7 +17,7 @@
              
 </string>
 			<key>PayloadDisplayName</key>
-			<string>NGỌC TRÂM - Locket Gold</string>
+			<string>ChumChum - Locket Gold</string>
 			<key>PayloadIdentifier</key>
 			<string>com.camsitup.controld.dnsprofile</string>
 			<key>PayloadOrganization</key>
@@ -34,7 +34,7 @@
 	<string>💛 Nâng LOCKET GOLD
              </string>
 	<key>PayloadDisplayName</key>
-	<string>NGỌC TRÂM</string>
+	<string>ChumChum</string>
 	<key>PayloadIdentifier</key>
 	<string>com.camsitup.profile.controld.doh</string>
 	<key>PayloadOrganization</key>
